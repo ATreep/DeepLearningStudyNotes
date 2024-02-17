@@ -4,7 +4,7 @@
 
 ### Sigmoid Activation Function
 
-$σ(z) = \frac{1}{1+e^{-z}}​$ 
+$σ(z) = \frac{1}{1+e^{-z}}$ 
 
 ![image-20240213134543770](./assets/image-20240213134543770.png)
 
@@ -179,7 +179,8 @@ w_1 \\
 w_2 \\
 w_3 \\w_4\\
 \vdots  \\
-w_n \\\end{bmatrix}​$$
+w_n 
+\end{bmatrix}​$$
 
 ### Using the Matrix in Calculation
 
