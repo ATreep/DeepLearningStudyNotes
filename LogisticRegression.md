@@ -177,7 +177,8 @@ y^{(1)} & y^{(2)} & y^{(3)} & \cdots  & y^{(m)}
 $$W = \begin{bmatrix}
 w_1 \\
 w_2 \\
-w_3 \\w_4\\
+w_3 \\
+w_4\\
 \vdots  \\
 w_n 
 \end{bmatrix}​$$
