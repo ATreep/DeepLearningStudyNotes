@@ -159,27 +159,27 @@ Recommended to use matrix to deal with accumulation problems.
 
 Assume there is a data set with $m$ examples and $n$ features.
 
-$X = \begin{bmatrix}
+$$X = \begin{bmatrix}
 x_1^{(1)} & x_1^{(2)} & x_1^{(3)} & \cdots  & x_1^{(m)} \\
 x_2^{(1)} & x_2^{(2)} & x_2^{(3)} & \cdots & x_2^{(m)} \\
 x_3^{(1)} & x_3^{(2)} & x_3^{(3)} & \cdots & x_3^{(m)} \\
 x_4^{(1)} & x_4^{(2)} & x_4^{(3)} & \cdots & x_4^{(m)} \\
 \vdots  & \vdots  & \vdots & \ddots  & \vdots    \\
 x_n^{(1)} & x_n^{(2)} & x_n^{(3)} & \cdots & x_n^{(m)}
-\end{bmatrix}$
+\end{bmatrix}$$
 
 One column is one example, and one row is one type of feature.
 
-$Y = \begin{bmatrix}
+$$Y = \begin{bmatrix}
 y^{(1)} & y^{(2)} & y^{(3)} & \cdots  & y^{(m)}
-\end{bmatrix}​$
+\end{bmatrix}​$$
 
-$W = \begin{bmatrix}
+$$W = \begin{bmatrix}
 w_1 \\
 w_2 \\
 w_3 \\w_4\\
 \vdots  \\
-w_n \\\end{bmatrix}$
+w_n \\\end{bmatrix}​$$
 
 ### Using the Matrix in Calculation
 
@@ -193,19 +193,19 @@ w_n \\\end{bmatrix}$
 
 2. Calculate derivative parameters
 
-   $dz = A - Y = \begin{bmatrix}
+   $$dz = A - Y = \begin{bmatrix}
    a^{(1)} - y^{(1)} & a^{(2)} - y^{(2)} & a^{(3)} - y^{(3)} & \cdots  & a^{(m)} - y^{(m)}
-   \end{bmatrix}$
+   \end{bmatrix}$$
 
-   $dw = X \bullet dz^T / m$ (`dw`'s shape must be n*1)
+   $dw = X \bullet dz^T / m​$ (`dw`'s shape must be n*1)
 
-   $db = dz \bullet \begin{bmatrix}
+   $$db = dz \bullet \begin{bmatrix}
    1 \\
    1 \\
    1 \\
    \vdots  \\
    1
-   \end{bmatrix} / m​$ (`db`'s shape must be 1*1)
+   \end{bmatrix} / m$$ (`db`'s shape must be 1*1)
 
 ### Implementing in Python
 
