@@ -8,7 +8,9 @@ Note: If some equation cannot be displayed, try cloning the markdown file, and o
 
 ## Contents
 
-1. [Logistic Regression](./LogisticRegression.md) 2024.2.14
+1. [Logistic Regression](./1. LogisticRegression.md) 2024.2.14
+1. [Shallow Neural Network](./2. ShallowNeuralNetwork.md) 2024.8.9
+1. [Example: Cat Detection with Shallow Neural Network](./3. Example - Cat Detection with Shallow Neural Network.md) 2024.8.9
 
 
 
