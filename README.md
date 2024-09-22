@@ -16,9 +16,13 @@ Note: If some equation cannot be displayed, try cloning the markdown file, and o
 
 1. [Deep Neural Network](./4.DeepNeuralNetwork.md) 2024.8.28
 
-1. [Example: Cat Detection with Deep Neural Network](5.ExampleCatDetectionWithDeepNeuralNetwork.md) 2024.8.28
+1. [Example: Cat Detection with Deep Neural Network](./5.ExampleCatDetectionWithDeepNeuralNetwork.md) 2024.8.28
 
-   
+1. [Utilities of Deep Learning](./6.UtilitiesOfDeepLearning.md) 2024.9.23
+
+1. [Example: Python Implementation of Regularization & Gradient Validation](./7.ExamplePythonImplementationOfRegularizationAndGradientValidation.md) 2024.9.23
+
+    
 
 ## Course
 
