@@ -22,7 +22,9 @@ Note: If some equation cannot be displayed, try cloning the markdown file, and o
 
 1. [Example: Python Implementation of Regularization & Gradient Validation](./7.ExamplePythonImplementationOfRegularizationAndGradientValidation.md) 2024.9.23
 
-    
+1. [Optimization Algorithms](./8.OptimizationAlgorithms.md) 2024.11.6
+
+     
 
 ## Course
 
