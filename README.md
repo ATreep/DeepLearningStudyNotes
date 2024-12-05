@@ -24,7 +24,9 @@ Note: If some equation cannot be displayed, try cloning the markdown file, and o
 
 1. [Optimization Algorithms](./8.OptimizationAlgorithms.md) 2024.11.6
 
-     
+1. [Tuning Hyperparameters, Batch Norm, Multiclassification and Frameworks](./9.TuningHyperparametersBatchNormMulticlassificationAndFrameworks.md) 2024.12.5
+
+      
 
 ## Course
 
