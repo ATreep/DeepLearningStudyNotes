@@ -26,7 +26,9 @@ Note: If some equation cannot be displayed, try cloning the markdown file, and o
 
 1. [Tuning Hyperparameters, Batch Norm, Multiclassification and Frameworks](./9.TuningHyperparametersBatchNormMulticlassificationAndFrameworks.md) 2024.12.5
 
-      
+1. [Machine Learning Strategy](./10.MachineLearningStrategy.md) 2025.1.5
+
+   ​    
 
 ## Course
 
