@@ -28,7 +28,9 @@ Note: If some equation cannot be displayed, try cloning the markdown file, and o
 
 1. [Machine Learning Strategy](./10.MachineLearningStrategy.md) 2025.1.5
 
-   ​    
+1. [Convolution Neural Network](./11.ConvolutionNeuralNetwork.md) 2025.1.22
+
+       
 
 ## Course
 
