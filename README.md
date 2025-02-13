@@ -30,7 +30,9 @@ Note: If some equation cannot be displayed, try cloning the markdown file, and o
 
 1. [Convolution Neural Network](./11.ConvolutionNeuralNetwork.md) 2025.1.22
 
-       
+1. [Deep CNN: Classic Networks, ResNet & Inception Net](./12.DeepCNNClassicNetworksResNetAndInceptionNet.md) 2025.2.13
+
+
 
 ## Course
 
