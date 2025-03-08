@@ -32,6 +32,8 @@ Note: If some equation cannot be displayed, try cloning the markdown file, and o
 
 1. [Deep CNN: Classic Networks, ResNet & Inception Net](./12.DeepCNNClassicNetworksResNetAndInceptionNet.md) 2025.2.13
 
+1. [Object Detection](./13.ObjectDetection.md) 2025.3.8
+
 
 
 ## Course
