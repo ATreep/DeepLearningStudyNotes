@@ -34,6 +34,8 @@ Note: If some equation cannot be displayed, try cloning the markdown file, and o
 
 1. [Object Detection](./13.ObjectDetection.md) 2025.3.8
 
+1. [Face Recognition & Neural Style Transfer](./14.FaceRecognitionAndNeuralStyleTransfer.md) 2025.3.24
+
 
 
 ## Course
