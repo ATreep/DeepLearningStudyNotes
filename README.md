@@ -1,10 +1,12 @@
-# My Study Notes on Deep Learning
+# My Study Notes on Deep Learning Specialization
 
 ## Introduction
 
-Notes and exercise codes on learning deep learning specialization, recorded to review and share solutions on difficult points with co-learners. o(≥ω≤)o
+Notes and exercise codes on learning deep learning specialization (lecturer: Andrew Ng).
 
-Note: If some equation cannot be displayed, try cloning the markdown file, and open it with [Typora](https://typora.io/) or [Obsidian](https://obsidian.md).
+I created this repository for me to review everywhere and meanwhile share solutions on difficult points with co-learners.
+
+Note: If some equation cannot be displayed, try cloning the markdown file and open it with [Typora](https://typora.io/) or [Obsidian](https://obsidian.md).
 
 ## Contents
 
@@ -23,6 +25,7 @@ Note: If some equation cannot be displayed, try cloning the markdown file, and o
 13. [Object Detection](./13.ObjectDetection.md) 2025.3.8
 14. [Face Recognition & Neural Style Transfer](./14.FaceRecognitionAndNeuralStyleTransfer.md) 2025.3.24
 15. [Neural Language Processing and Attention Mechanism](./15.NeuralLanguageProcessingAndAttentionMechanism.md) 2025.8.29
+16. [Transformer Architecture](./16.TransformerArchitecture.md) 2025.9.22
 
 ## Course
 
